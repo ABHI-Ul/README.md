@@ -10,7 +10,6 @@
 - C
 - Data Structures & Algorithms
 - Git & GitHub
-- Backend Development
 
 ## Goals
 - Build meaningful projects
