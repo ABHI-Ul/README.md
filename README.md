@@ -3,7 +3,7 @@
 # Hi, I'm Abhi 👋
 
 🎓 Computer Science Student  
-💻 Currently learning C and DSA  
+💻 Currently learning: C / DSA / Git-GitHub
 🚀 Interested in Software Engineering & AI
 
 ## Currently Learning
